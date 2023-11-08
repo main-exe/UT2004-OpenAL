@@ -1,5 +1,5 @@
 # UT2004-OpenAL
-3D spatial audio for 'Unreal Tournament 2004' aka UT2004 aka UT2k4.
+Instructions how to enable 3D spatial audio for 'Unreal Tournament 2004' aka UT2004 aka UT2k4.
 
 Intended to be used with **headphones** (stereo). Works with any sound card.  
 The difference should be clearly noticeable as sound becomes out-of-head.
