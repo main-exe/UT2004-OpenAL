@@ -12,3 +12,9 @@ Instructions and a way to find best sounding HRTF are included in 'Readme.txt' i
 ## Note
 Included OpenAL Soft library files are patched to fix voice chat which does not work with official OpenAL Soft release.
 Taken from [here](https://github.com/zenakuten/openal-soft/releases/tag/1.23.1-makemhr-UT2004).
+
+## Instructions for other UT games
+
+[UT99](https://github.com/main-exe/UT99-OpenAL)
+
+[UT4](https://github.com/main-exe/UT4-OpenAL)
